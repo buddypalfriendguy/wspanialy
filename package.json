@@ -1,0 +1,28 @@
+{
+  "name": "wspanialy",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buddypalfriendguy/wspanialy.git"
+  },
+  "author": "C Molloy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddypalfriendguy/wspanialy/issues"
+  },
+  "homepage": "https://github.com/buddypalfriendguy/wspanialy",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-minify-css": "^0.4.5",
+    "gulp-uglify": "^1.1.0"
+  }
+}
